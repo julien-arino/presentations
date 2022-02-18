@@ -1,4 +1,4 @@
-# Presentation
+# Presentations
 
 Some presentations, in either or both pdf and html. The FIGS folder is where the locally hosted figure files are located and should not be of interest to anyone but me when I create the presentations.
 
