@@ -29,21 +29,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1383"
-   inkscape:window-height="1137"
+   inkscape:window-width="1779"
+   inkscape:window-height="1295"
    id="namedview492"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.2642212"
-   inkscape:cx="214.60156"
-   inkscape:cy="64.025208"
+   inkscape:zoom="2.5284424"
+   inkscape:cx="230.67042"
+   inkscape:cy="114.31873"
    inkscape:window-x="0"
    inkscape:window-y="32"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg490" />
+   inkscape:current-layer="g295" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -403,6 +403,7 @@
          id="tspan117"
          style="fill:#000000;stroke:none">S</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -438,6 +439,7 @@
          id="tspan132"
          style="fill:#000000;stroke:none">I</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -472,6 +474,7 @@
        id="tspan149"><tspan
          id="tspan147"
          style="fill:#000000;stroke:none">R</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -692,6 +695,7 @@
          id="tspan228"
          style="fill:#000000;stroke:none">Φ</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
       </g>
@@ -737,6 +741,7 @@
          id="tspan248"
          style="fill:#000000;stroke:none">γ</tspan></tspan></tspan></text>
 
+
          <text
    class="TextShape"
    id="text262"><tspan
@@ -752,6 +757,7 @@
        id="tspan258"><tspan
          id="tspan256"
          style="fill:#000000;stroke:none">I</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -796,7 +802,8 @@
        y="12581"
        id="tspan278"><tspan
          id="tspan276"
-         style="fill:#000000;stroke:none"></tspan></tspan></tspan></text>
+         style="fill:#000000;stroke:none">v</tspan></tspan></tspan></text>
+
 
          <text
    class="TextShape"
@@ -813,6 +820,7 @@
        id="tspan286"><tspan
          id="tspan284"
          style="fill:#000000;stroke:none">R</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -860,6 +868,7 @@
          id="tspan304"
          style="fill:#000000;stroke:none">dS</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
       </g>
@@ -905,6 +914,7 @@
        id="tspan326"><tspan
          id="tspan324"
          style="fill:#000000;stroke:none">dR</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -952,6 +962,7 @@
          id="tspan344"
          style="fill:#000000;stroke:none">dI</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
       </g>
@@ -998,6 +1009,7 @@
          id="tspan364"
          style="fill:#000000;stroke:none">B</tspan></tspan></tspan></text>
 
+
          <text
    class="TextShape"
    id="text378"><tspan
@@ -1012,6 +1024,7 @@
        id="tspan374"><tspan
          id="tspan372"
          style="fill:#000000;stroke:none">(</tspan></tspan></tspan></text>
+
 
          <text
    class="TextShape"
@@ -1029,6 +1042,7 @@
          id="tspan380"
          style="fill:#000000;stroke:none">N</tspan></tspan></tspan></text>
 
+
          <text
    class="TextShape"
    id="text394"><tspan
@@ -1043,6 +1057,7 @@
        id="tspan390"><tspan
          id="tspan388"
          style="fill:#000000;stroke:none">)</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -1079,6 +1094,7 @@
        id="tspan407"><tspan
          id="tspan405"
          style="fill:#000000;stroke:none">L</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1150,6 +1166,7 @@
          id="tspan432"
          style="fill:#000000;stroke:none">dL</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
       </g>
@@ -1220,6 +1237,7 @@
          id="tspan461"
          style="fill:#000000;stroke:none">ε</tspan></tspan></tspan></text>
 
+
          <text
    class="TextShape"
    id="text475"><tspan
@@ -1235,6 +1253,7 @@
        id="tspan471"><tspan
          id="tspan469"
          style="fill:#000000;stroke:none">L</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
