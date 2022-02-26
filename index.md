@@ -1,5 +1,4 @@
-Markdown files used to generate these talks can be found by clicking the "View on GitHub" button, 
-as well as pdf versions, although the latter are typically incomplete (movies and Shiny apps, if any, are not operative).
+Markdown files used to generate these talks as well as pdf versions of these talks can be found by clicking the "View on GitHub" button. Note that the pdf versions are typically incomplete (movies and Shiny apps, if any, are not operative).
 
 
 - [2021-09-16_CCDM_Canada_China_symposium](2021-09-16_CCDM_Canada_China_symposium.html)
