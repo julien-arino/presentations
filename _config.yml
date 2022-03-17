@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+google_analytics: UA-1943806-8
+plugins:
+  - jekyll-sitemap
