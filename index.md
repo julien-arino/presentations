@@ -6,4 +6,4 @@ Markdown files used to generate these talks as well as pdf versions of these tal
 - [2021-12-03_UofW](2021-12-03_UofW.html)
 - [2022-02-18_Fields_course](2022-02-18_Fields_course.html)
 - [2022-04-07_NWU](2022-04-07_NWU.html)
-- [2022-07-01 N´Djaména](2022-07-01_NDjamena.html)
+- [2022-07-01 N´Djaména](2022-07-01-NDjamena.html)
