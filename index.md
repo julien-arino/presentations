@@ -7,3 +7,4 @@ Markdown files used to generate these talks as well as pdf versions of these tal
 - [2022-02-18 Fields course](2022-02-18_Fields_course.html)
 - [2022-04-07 NWU](2022-04-07_NWU.html)
 - [2022-07-01 N´Djaména](2022-07-01-NDjamena.html)
+- [2022-08-15 Fields Institute](2022-08-15_FieldsInstitute.html)
