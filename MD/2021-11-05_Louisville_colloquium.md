@@ -89,7 +89,7 @@ History of the Peloponnesian War</div>
 
 And yet **mobility drives spatio-temporal spread**:
 - Black Death 1347-1353 arrived in Europe and spread following trade routes
-- SARS-CoV-2 spread out of HKG following the GATN
+- SARS-CoV-1 spread out of HKG following the GATN
 - Khan, Arino, Hu *et al*, Spread of a novel influenza A (H1N1) virus via global airline transportation, *New England Journal of Medicine* (2009)
 </div>
 
