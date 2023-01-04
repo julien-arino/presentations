@@ -10,4 +10,3 @@ Markdown files used to generate these talks as well as pdf versions of these tal
 - [2022-08-15 Fields Institute](2022-08-15_FieldsInstitute.html)
 - [2022-09-23 Heidelberg](2022-09-23_Heidelberg.html)
 - [2023-01-04 Inria Sophia Antipolis](2023-01-04-Inria-Sophia.html)
-
