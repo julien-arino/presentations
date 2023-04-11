@@ -11,6 +11,7 @@ if (FALSE) {
   # Dowload the data
   options(timeout=120)
   raw_data <- wb_data(indicator = "IS.AIR.PSGR")
+  write.csv(raw_data, file = "wb-IS-AIR-PSGR.csv", row.names = FALSE)
 } else {
   raw_data <- read_csv("API_IS.AIR.PSGR_DS2_en_csv_v2_5358459.csv", 
                        skip = 3)
