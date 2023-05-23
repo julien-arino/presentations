@@ -11,3 +11,4 @@ Markdown files used to generate these talks as well as pdf versions of these tal
 - [2022-09-23 Heidelberg](2022-09-23_Heidelberg.html)
 - [2023-01-04 Inria Sophia Antipolis](2023-01-04-Inria-Sophia.html)
 - [2023-04-12 Rennes](2023-04-12-Rennes.html)
+- [2023-05-23 Winnipeg](2023-05-23-Winnipeg.html)
