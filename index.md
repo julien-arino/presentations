@@ -12,3 +12,4 @@ Markdown files used to generate these talks as well as pdf versions of these tal
 - [2023-01-04 Inria Sophia Antipolis](2023-01-04-Inria-Sophia.html)
 - [2023-04-12 Rennes](2023-04-12-Rennes.html)
 - [2023-05-23 Winnipeg](2023-05-23-Winnipeg.html)
+- [2024-06-27-CAIMS](2024-06-27-CAIMS.pdf)
